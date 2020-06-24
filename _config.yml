@@ -13,7 +13,7 @@ description: NGOMeToo
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/NGOMeToo/NGOMeToo.github.io/master/images/metoo-rabbit.jpg
+avatar: https://raw.githubusercontent.com/lestweforget/metoo/master/images/metoo-rabbit.jpg
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -67,7 +67,7 @@ comments: true
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ngometoo.github.io
+url: https://metoo.forget.eu.org
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
