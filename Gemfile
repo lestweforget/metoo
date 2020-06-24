@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec :name => "jekyll"
+gemspec :name => "metoo"
 
 gem "rake", "~> 13.0"
 
