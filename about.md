@@ -16,6 +16,13 @@ permalink: /about/
 
 ### 关于本站
 
-本站在 [ngometoo.github.io](https://ngometoo.github.io/) 的资料上进行更新。不改其[原旨](https://ngometoo.github.io/about/) 。
+本站在 [ngometoo.github.io](https://ngometoo.github.io/) 的资料上进行更新。不改其[原旨](https://ngometoo.github.io/about/) ，以记录为主。目的在于：
+
+- 不忘记施害者的行为
+- 不忘记受害者的痛楚
+- 不忘记施害者所在的机构、组织的不作为
+- 不忘记沉默者的不作为
+
+至于说到原谅，只有上帝才有资格如此。
 
 
