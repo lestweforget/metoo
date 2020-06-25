@@ -30,7 +30,7 @@ description:
 | 2018.07.25   | WWF前员工实名举报在2016年曾遭上司周非性骚扰                 | [周非](https://ngometoo.github.io/Zhou-Fei/)         | 2018/8/23  |
 | 2018.07.26   | 一位媒体人匿名举报2012年曾遭霍庆川性骚扰                    | [霍庆川](https://ngometoo.github.io/Huo-Qingchuan/)  | 2018/8/22  |
 | 2018.07.27   | 两位女社工匿名举报曾遭刘猛性骚扰、性侵                      | [刘猛](https://ngometoo.github.io/Liu-Meng/)         | 2018/8/13  |
-| 2019         |                                                             | 孙恒                                                 |            |
+| 2019         |                                                             | 贾志伟                                                 |            |
 | 2020         | 刘韬涉嫌性侵                                                | [刘韬](https://metoo.forget.eu.org/Liu-Tao/)         | 2020/06/24 |
 |              |                                                             |                                                      |            |
 |              |                                                             |                                                      |            |
